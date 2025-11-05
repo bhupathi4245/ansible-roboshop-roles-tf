@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.akinfotech.site
+MONGODB_HOST: "mongodb-{{ env }}.akinfotech.site"
