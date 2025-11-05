@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.akinfotech.site
+USER_HOST: user.akinfotech.site
+CART_HOST: cart.akinfotech.site
+SHIPPING_HOST: shipping.akinfotech.site
+PAYMENT_HOST: payment.akinfotech.site
