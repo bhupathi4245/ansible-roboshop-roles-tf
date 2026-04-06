@@ -1,3 +1,3 @@
-REDIS_HOST: redis.akinfotech.site
+REDIS_HOST: redis-{{ env }}.akinfotech.site
 CATALOGUE_HOST: catalogue.akinfotech.site
-MONGODB_HOST: mongodb.akinfotech.site
+MONGODB_HOST: mongodb-{{ env }}.akinfotech.site

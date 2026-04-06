@@ -1,2 +1,2 @@
-REDIS_HOST: redis.akinfotech.site
-CATALOGUE_HOST: catalogue.akinfotech.site
+REDIS_HOST: redis.backend-{{ env }}.akinfotech.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.akinfotech.site
